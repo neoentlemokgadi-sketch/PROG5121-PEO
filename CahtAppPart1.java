@@ -146,7 +146,7 @@ public class CahtAppPart1 {
     }
     
     public static void loginPassword(){
-        System.out.println("\nPlease enter your password:");
+        System.out.println("\nPlease enter your password:"); 
         inputPassword = input.nextLine();
         
         login();
